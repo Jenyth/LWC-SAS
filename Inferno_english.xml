@@ -1041,7 +1041,7 @@
 	"id": "https://raw.githubusercontent.com/Jenyth/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142529042",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-13T14:25:29.042Z",
-	"dcterms:modified": "2025-02-13T14:25:29.042Z",
+	"dcterms:modified": "2025-02-13T14:26:26.526Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Jenyth",
 		"@type": [
@@ -1120,7 +1120,7 @@
 	"id": "https://raw.githubusercontent.com/Jenyth/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142541630",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-13T14:25:41.630Z",
-	"dcterms:modified": "2025-02-13T14:25:41.630Z",
+	"dcterms:modified": "2025-02-13T14:26:13.753Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Jenyth",
 		"@type": [
@@ -1467,7 +1467,7 @@
             <lg n="47">
                <l n="139">Of qualities I saw the good collector,</l>
                <l n="140">Hight Dioscorides; and Orpheus saw I,</l>
-               <l n="141"><persName key="Cicero" ref="http://www.wikidata.org/entity/Q1541">Tully</persName> and <persName key="Titus Livius" ref="http://www.wikidata.org/entity/Q2039" cert="high" type="both">Livy</persName>, and moral Seneca,</l>
+               <l n="141"><persName key="Cicero" ref="http://www.wikidata.org/entity/Q1541" role="aut">Tully</persName> and <persName key="Titus Livius" ref="http://www.wikidata.org/entity/Q2039" cert="high" type="both" role="aut">Livy</persName>, and moral Seneca,</l>
             </lg>
 
             <lg n="48">

@@ -1315,7 +1315,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Jenyth/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142721891#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg[46]/l[2]/persName[2]"
+			"rdf:value": "TEI/text/body/div/lg[46]/l[2]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -4071,7 +4071,7 @@
 
             <lg n="46">
                <l n="136"><persName key="Democritus" ref="http://www.wikidata.org/entity/Q41980" cert="high" type="both">Democritus</persName>, who puts the world on chance,</l>
-               <l n="137"><persName key="Diogenes of Sinope" ref="http://www.wikidata.org/entity/Q59180" cert="high" role="aut" type="both">Diogenes</persName>, Anaxagoras, and <persName key="Thales" ref="http://www.wikidata.org/entity/Q36303" role="aut">Thales</persName>,</l>
+               <l n="137"><persName key="Diogenes of Sinope" ref="http://www.wikidata.org/entity/Q59180" cert="high" role="aut" type="both">Diogenes</persName>, <persName cert="unknown">Anaxagoras</persName>, and <persName key="Thales" ref="http://www.wikidata.org/entity/Q36303" role="aut">Thales</persName>,</l>
                <l n="138">Zeno, Empedocles, and Heraclitus;</l>
             </lg>
 
